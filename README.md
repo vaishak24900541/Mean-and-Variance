@@ -43,10 +43,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
 
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
-
 # Program :
 ```
 import numpy as np
@@ -74,7 +70,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 # Output : 
 
-<img width="644" height="100" alt="image" src="https://github.com/user-attachments/assets/806e042d-9ee3-4f94-8bee-cd88bcd4df41" />
+<img width="542" height="94" alt="image" src="https://github.com/user-attachments/assets/68d6849d-38e3-4ced-9c46-a20d2a01b42f" />
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
